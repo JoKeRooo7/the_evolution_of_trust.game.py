@@ -134,7 +134,7 @@ Actions:
 |rol1 / rol2|Cheater|Cooperator|
 |----------|-------|----------|
 |Cheater   |0/0|+3/-1|
-||Cooperator|-1/+3|+2/+2|
+|Cooperator|-1/+3|+2/+2|
 
 
 ## Game Class
