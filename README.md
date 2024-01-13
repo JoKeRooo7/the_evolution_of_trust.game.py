@@ -158,7 +158,7 @@ Necessarily accepts two [roles](#role), any at your discretion.
     He starts a game between two characters and adds their number of points to the total score, which is stored in the `self.registry`
     ___
 *   `get_registry()`
-    Returns the counter as the Counter data type(https://docs.python.org/3/library/collections.html )
+    Returns the counter as the Counter data [type](https://docs.python.org/3/library/collections.html )
     ___
 *   `play_all_combinations()`
     Starts the game between all combinations of character roles.
